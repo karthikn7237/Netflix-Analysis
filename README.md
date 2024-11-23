@@ -4,3 +4,17 @@ The objective of this project is to leverage Power BI to analyze Netflix data, e
 1. Data Collection and Preparation:
 - Downloaded Netflix data from github.
 - Cleaned and preprocess the data using tools like Excel or Power Query to ensure it's ready for analysis.
+
+2. User Behavior Analysis:
+- Created Dashboard to analyze metrics like type of shows(Movie , TV shows).
+
+3. Content Analysis:
+- Visualize total genres, type of show with rating and maximum number of films and television program's released in a given year and month.
+- Analyze show and movie rating and amount of films and television shows released in the nation.
+
+Tools and Technologies:
+- Power BI Desktop: For data preparation, modeling, and creating visualizations.
+- Excel or Power Query: For data cleaning and preprocessing if needed
+
+Conclusion:
+- The Netflix Data Analysis with Power BI project aims to provide stakeholders with interactive dashboard, insights into user behavior and content preferences on the platform. Power BI's capabilities helps in this analysis will enable better decision-making and potentially lead to improvements in content recommendation and delivery.
