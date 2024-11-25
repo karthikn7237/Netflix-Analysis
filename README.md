@@ -22,4 +22,4 @@ Conclusion:
 
 # Interactive Data Visualization Dashboard
 
-![dashboard](https://github.com/user-attachments/assets/e0287c29-81fa-49c5-b18e-ae24b19c8270)
+![netdashboard](https://github.com/user-attachments/assets/2006b50f-9d7d-48bc-8f2d-b5adbef7985a)
