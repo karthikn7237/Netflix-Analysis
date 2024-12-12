@@ -20,6 +20,6 @@ Tools and Technologies:
 Conclusion:
 - The Netflix Data Analysis with Power BI project aims to provide stakeholders with interactive dashboard, insights into user behavior and content preferences on the platform. Power BI's capabilities helps in this analysis will enable better decision-making and potentially lead to improvements in content recommendation and delivery.
 
-# Interactive Data Visualization Dashboard
+# Dashboard
 
 ![netdashboard](https://github.com/user-attachments/assets/2006b50f-9d7d-48bc-8f2d-b5adbef7985a)
